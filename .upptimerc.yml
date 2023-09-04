@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Pablo Dip
-  - url: https://pablodip.me
+  - url: https://www.pablodip.me
   - name: Azure Portal
     url: https://portal.azure.com/
   - name: AWS Portal
